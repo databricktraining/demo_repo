@@ -1,0 +1,5 @@
+{
+"conn_string":"smaevalue",
+"target_db_name":"Database",
+"taget_table":"emp"
+}
